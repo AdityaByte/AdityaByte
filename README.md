@@ -18,7 +18,7 @@
 
 <h3 align="left">Preview my <em>Frontend project</em></h3>
 
-![](git1,PNG)
+![](git1.PNG)
 
 ![](git2.PNG)
 
