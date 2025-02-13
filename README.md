@@ -16,7 +16,47 @@
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityaxd._.z) 
 
-```python
+```golang
+package main
+// Author @AdityaByte
+import "fmt"
+
+type Programmer struct {
+	Name   string   `json:"name"`
+	Role   string   `json:"role"`
+	Skills []string `json:"skills"`
+}
+
+func SoftwareDeveloper() {
+	me := Programmer{
+		Name: "Aditya Pawar",
+		Role: "Full Stack Developer",
+		Skills: []string{
+			"Java",
+			"Spring Boot",
+			"Spring Framework",
+			"Golang",
+			"Gorilla Mux",
+			"HTML/CSS",
+			"Javascript",
+			"Postman",
+			"MongoDB",
+			"MySQL",
+		},
+	}
+
+	fmt.Println(me)
+	fmt.Println("Thanks for dropping by, Hope you find some of my work interesting.")
+}
+
+func main() {
+	SoftwareDeveloper()
+}
+
+```
+
+<!--
+```
 package github.readme;
 // Author @AdityaByte
 
@@ -45,8 +85,8 @@ public class Main(){
     engineer.sayHi();
   }
 }
-
 ```
+-->
 
 
 💻 Tech Stack:
