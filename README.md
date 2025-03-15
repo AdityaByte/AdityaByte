@@ -8,13 +8,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdityaByte/](https://github.com/AdityaByte/)
 
-- 📫 How to reach me **https://github.com/AdityaByte/**
+- 📫 How to reach me **adityabyte@gmail.com**
 
 - ⚡ Fun fact **" I think I would learn everything, one curiosity at a time"**
 
 
 ## 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityaxd._.z) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pawar-557a56332/)
 
 ```golang
 package main
@@ -97,7 +97,7 @@ public class Main(){
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
         <!-- Languages -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="45" height="45" />
@@ -119,7 +119,7 @@ public class Main(){
     <h3 style="font-family: 'Arial', sans-serif; font-size: 18px; color: #333;">Familiar</h3>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
     <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45" />
