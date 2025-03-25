@@ -4,7 +4,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya12-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="aditya12-cyber" /> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 Interested in **Distributed Systems** and **Low-Level Things**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdityaByte/](https://github.com/AdityaByte/)
 
