@@ -4,55 +4,46 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya12-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="aditya12-cyber" /> </p>
 
-- 🌱 Interested in **Distributed Systems** and **Low-Level Things**
+## 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/AdityaByte/](https://github.com/AdityaByte/)
-
-- 📫 How to reach me **adityabyte@gmail.com**
-
-- ⚡ Fun fact **" I think I would learn everything, one curiosity at a time"**
-
+- 🔭 Passionate about **Distributed Systems** and **Low-Level Programming**
+- 🌱 Currently expanding my knowledge in system architecture and performance optimization
+- 💡 Believer in continuous learning and open-source collaboration
+- 📫 Reach me at: **adityabyte@gmail.com**
+- 👨‍💻 Portfolio: [https://github.com/AdityaByte](https://adityabyte.github.io/Portfolio/)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pawar-557a56332/)
 
+## 💻 Technical Profile
+
 ```golang
 package main
-// Author @AdityaByte
+
 import "fmt"
 
-type Programmer struct {
-	Name   string   `json:"name"`
-	Role   string   `json:"role"`
-	Skills []string `json:"skills"`
-}
-
-func SoftwareDeveloper() {
-	me := Programmer{
-		Name: "Aditya Pawar",
-		Role: "Full Stack Developer",
-		Skills: []string{
-			"Java",
-			"Spring Boot",
-			"Spring Framework",
-			"Golang",
-			"Gorilla Mux",
-			"HTML/CSS",
-			"Javascript",
-			"Postman",
-			"MongoDB",
-			"MySQL",
-		},
-	}
-
-	fmt.Println(me)
-	fmt.Println("Thanks for dropping by, Hope you find some of my work interesting.")
+type Developer struct {
+    Name   string
+    Focus  []string
+    Skills map[string][]string
 }
 
 func main() {
-	SoftwareDeveloper()
+    aditya := Developer{
+        Name:  "Aditya Pawar",
+        Focus: []string{"Backend Development", "System Design"},
+        Skills: map[string][]string{
+            "Languages":   {"Java", "Golang", "Python", "JavaScript"},
+            "Frameworks": {"Spring Boot", "Spring Framework", "Gorilla Mux", "Flask"},
+            "Databases":  {"MySQL", "MongoDB", "PostgreSQL"},
+            "DevOps":     {"Docker", "Git", "Maven", "Linux"},
+            "Frontend":   {"React", "HTML/CSS", "Bootstrap"},
+        },
+    }
+    
+    fmt.Println(aditya)
+    fmt.Println("Let's connect and build something great together!")
 }
-
 ```
 
 <!--
