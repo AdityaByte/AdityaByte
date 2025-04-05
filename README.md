@@ -80,7 +80,7 @@ public class Main(){
 -->
 
 
-💻 Tech Stack:
+## 💻 Tech Stack:
 
 <!-- Proficient Section -->
 <div align="center">
