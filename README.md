@@ -1,22 +1,52 @@
-<h1 align="center">Hi 👋, I'm Aditya Pawar</h1>
+<h1 align="center">Hey 👋, I'm Aditya</h1>
 
-<h3 align="center">''' Unlock the world of endless possibilities through the language of code '''</h3>
+<h3 align="center">Anything that gives me dopamine eventually becomes a habit — and building fully-fledged, scalable software is one of them.</h3>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya12-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="aditya12-cyber" /> </p>
 
 ## 🚀 About Me
 
 - 🔭 Passionate about **Distributed Systems** and **Low-Level Programming**
-- 🌱 Currently expanding my knowledge in system architecture and performance optimization
+- 🌱 Currently expanding my knowledge in system architecture and performance optimization and microservices
 - 💡 Believer in continuous learning and open-source collaboration
 - 📫 Reach me at: **adityabyte@gmail.com**
 - 👨‍💻 Portfolio: [https://github.com/AdityaByte](https://adityabyte.github.io/Portfolio/)
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pawar-557a56332/)
-
 ## 💻 Technical Profile
 
+```elixir
+defmodule Aditya.Me do
+  def Developer do
+    name = :Aditya
+
+    focus = ["Distributed Systems" | ["Microservices" | ["Low Latency Systems" | ["SAAS" | []]]]]
+
+    skills = %{
+      :languages => [:Java, :Golang, :Javascript, :Python],
+      :web_technologies => ["HTML5", "CSS3", "Javascript", "React", "Redux", "GSAP", "TailwindCSS", "bootstrap"],
+      :frameworks => [
+        %{"Spring Framework": ["Spring Boot", "Spring Web MVC", "Spring Security", "Spring Batch"]},
+        "Hibernate", "Thymeleaf"
+      ],
+      :databases => ["MongoDB", "MySQL"],
+      :tools => ["Apache Kafka", "Redis", "Maven", "Postman", "Figma", "LucidChart"],
+      :deployment => ["git", "github", "vercel", "render"],
+      :testing => [:JMeter, :JUnit, :Mockito, :SonarQube, :TestContainers, :PyTest, :Github_Actions]
+    }
+
+    architecture_patttern = [
+      "Client Server Architecture",
+      "Microservices Architecture",
+      "Event Driven Architecture",
+      "Monolithic Architecture"
+    ]
+
+    IO.puts("Let's connect and build something together")
+  end
+end
+```
+
+<!--
 ```golang
 package main
 
@@ -45,7 +75,7 @@ func main() {
     fmt.Println("Let's connect and build something great together!")
 }
 ```
-
+-->
 <!--
 ```
 package github.readme;
