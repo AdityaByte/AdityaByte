@@ -10,7 +10,7 @@
 - 🌱 Currently expanding my knowledge in system architecture and performance optimization and microservices
 - 💡 Believer in continuous learning and open-source collaboration
 - 📫 Reach me at: **adityabyte@gmail.com**
-- 👨‍💻 Portfolio: [https://github.com/AdityaByte](https://adityabyte.github.io/Portfolio/)
+- 👨‍💻 Portfolio: [https://phxfolio.onrender.com/](https://phxfolio.onrender.com/)
 
 ## 💻 Technical Profile
 
