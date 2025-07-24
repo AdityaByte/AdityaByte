@@ -10,7 +10,7 @@
 - 🌱 Currently expanding my knowledge in system architecture and performance optimization and microservices
 - 💡 Believer in continuous learning and open-source collaboration
 - 📫 Reach me at: **adityabyte@gmail.com**
-- 👨‍💻 Portfolio: [https://phxfolio.onrender.com/](https://reactfolio-vert.vercel.app/)
+- 👨‍💻 Portfolio: [https://reactfolio-vert.vercel.app/](https://reactfolio-vert.vercel.app/)
 
 ## 💻 Technical Profile
 
