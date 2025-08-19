@@ -14,7 +14,7 @@
 
 ## 💻 Tech Stack
 
-**Languages & Core:** Java · Go · Python · JavaScript · Elixir
+**Languages & Core:** Java · Go · Python · JavaScript · Elixir  
 **Frameworks & Tools:** Spring Boot · React · Flask · Kafka · Redis  
 **Databases:** MySQL · MongoDB  
 **DevOps & Deployment:** Git · Maven · Docker · Vercel · Render  
